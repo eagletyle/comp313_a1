@@ -2,7 +2,7 @@
 # Tyler Eagle
 # Assignment 1
 # Twin Stick Shooter
-*Link to video coming soon*
+https://youtu.be/cBhzZvWUcxA
 
 ## Game Description
 The main action in this game is movement. Without movement the game becomes almost redundant.\
