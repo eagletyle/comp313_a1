@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TS_Shooter_v2-2257.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"H:\TS_Shooter_v2\TS_Shooter_v2\Intermediate\Build\Win64\UE4Editor\Development\TS_Shooter_v2\TS_Shooter_v2.cpp.obj"
+"H:\TS_Shooter_v2\TS_Shooter_v2\Intermediate\Build\Win64\UE4Editor\Development\TS_Shooter_v2\BaseCharacter.cpp.obj"
+"H:\TS_Shooter_v2\TS_Shooter_v2\Intermediate\Build\Win64\UE4Editor\Development\TS_Shooter_v2\BaseCharacter.gen.cpp.obj"
+"H:\TS_Shooter_v2\TS_Shooter_v2\Intermediate\Build\Win64\UE4Editor\Development\TS_Shooter_v2\TS_Shooter_v2.init.gen.cpp.obj"
+"H:\TS_Shooter_v2\TS_Shooter_v2\Intermediate\Build\Win64\UE4Editor\Development\TS_Shooter_v2\Default.rc2.res"
+/OUT:"H:\TS_Shooter_v2\TS_Shooter_v2\Intermediate\Build\Win64\UE4Editor\Development\TS_Shooter_v2\UE4Editor-TS_Shooter_v2-2257.lib"
+/INCLUDE:IMPLEMENT_MODULE_TS_Shooter_v2

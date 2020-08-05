@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TS_Shooter_v2.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F348F657-950C-48B1-BC65-4F3B8F08E6E7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TS_Shooter_v2.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TS_Shooter_v2Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{B857F3EB-981C-4B1C-963C-88844F1F8876}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TS_Shooter_v2">
+      <UniqueIdentifier>{5BB62029-7B40-496A-AC50-C8865A614697}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TS_Shooter_v2\TS_Shooter_v2.Build.cs">
+      <Filter>Source\TS_Shooter_v2</Filter>
+    </None>
+    <ClInclude Include="..\..\Source\TS_Shooter_v2\TS_Shooter_v2.h">
+      <Filter>Source\TS_Shooter_v2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TS_Shooter_v2\TS_Shooter_v2.cpp">
+      <Filter>Source\TS_Shooter_v2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TS_Shooter_v2\BaseCharacter.h">
+      <Filter>Source\TS_Shooter_v2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TS_Shooter_v2\BaseCharacter.cpp">
+      <Filter>Source\TS_Shooter_v2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TS_Shooter_v2\IncrementScore.h">
+      <Filter>Source\TS_Shooter_v2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TS_Shooter_v2\IncrementScore.cpp">
+      <Filter>Source\TS_Shooter_v2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TS_Shooter_v2\IncrementGameScore.h">
+      <Filter>Source\TS_Shooter_v2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TS_Shooter_v2\IncrementGameScore.cpp">
+      <Filter>Source\TS_Shooter_v2</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

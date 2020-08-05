@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TS_Shooter_v2",
+			"Path": "H:\\TS_Shooter_v2\\TS_Shooter_v2\\Source\\TS_Shooter_v2.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TS_Shooter_v2Editor",
+			"Path": "H:\\TS_Shooter_v2\\TS_Shooter_v2\\Source\\TS_Shooter_v2Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
