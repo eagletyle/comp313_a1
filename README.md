@@ -1,7 +1,7 @@
 # COMP313
 # Tyler Eagle
 # Assignment 1
-# Top Down Shooter
+# Twin Stick Shooter
 *Link to video coming soon*
 
 ## Game Description
